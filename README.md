@@ -64,3 +64,15 @@
 - 🏅 IBM AI Developer — Coursera (2025)
 - 🏅 IBM Generative AI Engineering — Coursera (2025)
 
+---
+
+---
+
+<h3 align="center">✍️ Quote of the Day</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
