@@ -66,6 +66,22 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajazohaibsaqib&theme=github_dark"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=rajazohaibsaqib&theme=dark"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajazohaibsaqib&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h3 align="center">✍️ Quote of the Day</h3>
