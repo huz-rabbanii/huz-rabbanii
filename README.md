@@ -64,8 +64,3 @@
 - 🏅 IBM AI Developer — Coursera (2025)
 - 🏅 IBM Generative AI Engineering — Coursera (2025)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
