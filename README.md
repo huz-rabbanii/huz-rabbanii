@@ -71,13 +71,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajazohaibsaqib&theme=github_dark"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huz-rabbanii&theme=github_dark"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=rajazohaibsaqib&theme=dark"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=huz-rabbanii&theme=dark"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajazohaibsaqib&theme=github_dark"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huz-rabbanii&theme=github_dark"/>
     </td>
   </tr>
 </table>
